@@ -11,9 +11,9 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **I am currently working on an Intelligent Weather-Aware Autonomous Vehicle Platooning System .**
+- 🔭**I am currently working on an Intelligent Weather-Aware Autonomous Vehicle Platooning System .**
 
-- 🌱 I'm currently learning **I am currently learning kubernetes.**
+- 🌱 **I am currently learning kubernetes.**
 - 💡 Interested in **software development, web development, and DSA**
 - 🧠 Solved **300+ LeetCode problems**
 - 🚀 Enjoy building practical projects with clean logic and structure
