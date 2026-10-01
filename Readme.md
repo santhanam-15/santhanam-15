@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhana Pandi S</h1>
-<h3 align="center">Computer Science student | Software Developer aspirant | Problem Solver</h3>
+<h3 align="center">Computer Science student | Software Developer aspirant | Problem Solver </h3>
 
 <p align="center">
   <a href="https://github.com/santhanam-15">
@@ -10,8 +10,6 @@
 ---
 
 ## About Me
-
-- 🔭**I am currently working on an Intelligent Weather-Aware Autonomous Vehicle Platooning System .**
 
 - 🌱 **I am currently learning kubernetes.**
 - 💡 Interested in **software development, web development, and DSA**
@@ -33,7 +31,7 @@
 `Node.js` `Express.js` `MySQL` `Oracle DB`
 
 ### Tools & Platforms
-`Git` `GitHub` `Docker`
+`Git` `GitHub` `Docker` `Ansible` ` vagrant`
 
 ### Operating Systems
 `Linux` `Windows`
